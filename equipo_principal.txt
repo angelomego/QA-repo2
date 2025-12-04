@@ -5,7 +5,7 @@
 - Talomflame Lvl 100
 - Ampharos Lvl 100
 - Gaston Lvl 100
-- Venasaur Lvl 100
+- Venasaur Lvl 99 Baya Zidra
 - Charizard Lvl 100
 
 feat: Agregado Charizard al equipo de inicio (Cambio remoto)
