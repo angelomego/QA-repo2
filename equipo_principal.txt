@@ -8,4 +8,7 @@
 - Venasaur Lvl 99 Baya Zidra
 - Charizard Lvl 100 Charizardita X
 
+Commit A: "Prueba 1"
+Commit B: "Prueba 2"
+
 feat: Agregado Charizard al equipo de inicio (Cambio remoto)
